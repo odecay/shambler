@@ -11,4 +11,4 @@ rayon = "1.8.0"
 shalrath = "0.2.5"
 
 # usage = { path = "../../../usage", features = ["rayon"] }
-usage = "1.4.0"
+usage = { version = "1.4.0", features = ["rayon"] }
